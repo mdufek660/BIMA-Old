@@ -1,3 +1,10 @@
+/*
+Written April 8th, 2019 by Michael Dufek
+Tests the ability to parse strings into braille to display messages. Note this version cycles automatically instead of using buttons
+Special thanks to Peter in England for helping troubleshoot the issues with a previous version. We didn't solve the issues, but
+I appreciate his help none-the-less!
+*/
+
 int pin=0;
     char dictionary[50][9]= //Please note if you change the first value, you MUST change j to match
     {
