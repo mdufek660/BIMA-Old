@@ -1,3 +1,5 @@
+//Cell diagnostic tool, written Feb 15th, 2019 by Michael Dufek
+
 int ledPin = 8;
 int continueLoop=1;
 int i = 200;
